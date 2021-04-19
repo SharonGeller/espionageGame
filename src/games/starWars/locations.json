@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Death Star",
+    "characters": [
+      "Emperor Palpatine",
+      "Luke Skywalker",
+      "Darth Vader",
+      "Rebel Pilot",
+      "Stormtrooper"
+    ]
+  },
+  {
+    "name": "Jedi Temple",
+    "characters": [
+      "Anakin Skywalker",
+      "Mace Windu",
+      "Obi-wan",
+      "Yoda",
+      "Ahsoka Tano",
+      "Jedi Padawan",
+      "Jedi Knight"
+    ]
+  },
+  {
+    "name": "Naboo",
+    "characters": [
+      "Obi-wan",
+      "Qui-Gon",
+      "Queen Amidala",
+      "Anakin Skywalker",
+      "Darth Maul",
+      "Droid"
+    ]
+  },
+  {
+    "name": "Tatooine",
+    "characters": [
+      "Obi-wan",
+      "Luke Skywalker",
+      "Jabba the hutt",
+      "Boba fett",
+      "Darth Maul",
+      "Sand Bandit"
+    ]
+  },
+  {
+    "name": "Endor",
+    "characters": [
+      "Darth Vader",
+      "Luke Skywalker",
+      "Stormtrooper",
+      "Han Solo",
+      "Princess Leia",
+      "Ewok"
+    ]
+  },
+  {
+    "name": "Hoth",
+    "characters": [
+      "Darth Vader",
+      "Luke Skywalker",
+      "R2D2",
+      "Han Solo",
+      "Princess Leia",
+      "Rebel"
+    ]
+  },
+  {
+    "name": "Kamino",
+    "characters": [
+      "Obi-wan",
+      "Anakin Skywalker",
+      "99",
+      "Shaak Ti",
+      "Fives",
+      "Echo",
+      "Clone Trooper"
+    ]
+  },
+  {
+    "name": "Coruscant",
+    "characters": [
+      "Anakin Skywalker",
+      "Mace Windu",
+      "Chancellor Palpatine",
+      "Senate Guard",
+      "Senator Amidala",
+      "Senator"
+    ]
+  },
+  {
+    "name": "Starkiller Base",
+    "characters": [
+      "General Hux",
+      "Kylo Ren",
+      "Rey",
+      "Han Solo",
+      "Fin",
+      "Stormtrooper"
+    ]
+  }
+]

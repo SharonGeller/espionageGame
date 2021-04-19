@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Southern Water Tribe",
+    "characters": [
+      "Sokka",
+      "Katara",
+      "Kya",
+      "Anag",
+      "Water bender",
+      "Fire bender"
+    ]
+  },
+  {
+    "name": "Southern Water Tribe",
+    "characters": ["Sokka", "Katara", "Anag", "Momo", "Dead nomad"]
+  },
+  {
+    "name": "Kyoshi Island",
+    "characters": [
+      "Avatar Kyoshi",
+      "Foaming mouth guy",
+      "Suki",
+      "Sokka",
+      "Katara",
+      "Anag",
+      " Kyoshi Warrior"
+    ]
+  },
+  {
+    "name": "Omashu",
+    "characters": [
+      "King Bumi",
+      "Mai",
+      "Sokka",
+      "Katara",
+      "Anag",
+      "Earth bender"
+    ]
+  },
+  {
+    "name": "Serpent's Pass",
+    "characters": [
+      "Pregnant woman",
+      "Suki",
+      "Sokka",
+      "Katara",
+      "Anag",
+      "Toph",
+      "passenger"
+    ]
+  },
+  {
+    "name": "Lake Laogai",
+    "characters": [
+      "Long Feng",
+      "Jet",
+      "Sokka",
+      "Katara",
+      "Anag",
+      "Zuko",
+      "Joo Dee"
+    ]
+  },
+  {
+    "name": "Ember Island",
+    "characters": ["Zuko", "Azula", "Mai", "Ty Lee", "Chan", "Fire nation teen"]
+  },
+  {
+    "name": "Ba Sing Se",
+    "characters": [
+      "Earth King",
+      "Cabbage merchant",
+      "Long Feng",
+      "Iroh",
+      "Zuko",
+      "Dai Li sergeant"
+    ]
+  }
+]

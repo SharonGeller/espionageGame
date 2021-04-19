@@ -1,0 +1,30 @@
+[
+  {
+    "name": "The Shire",
+    "characters": [
+      "Bilbo Baggins",
+      "Frodo Baggins",
+      "Gandalf",
+      "Samwise Gamgee",
+      "Smeagol",
+      "Hobbit"
+    ]
+  },
+  {
+    "name": "Mordor",
+    "characters": ["Sauron", "Frodo Baggins", "Gandalf", "Saruman", "Goblin"]
+  },
+  {
+    "name": "Caradhras",
+    "characters": [
+      "Frodo Baggins",
+      "Gandalf",
+      "Samwise Gamgee",
+      "Fellowship Member"
+    ]
+  },
+  {
+    "name": "Lothlorien",
+    "characters": ["Legolas", "Celeborn", "Arwen", "Haldir of Lórien", "Elf"]
+  }
+]

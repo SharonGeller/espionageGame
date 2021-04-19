@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Avengers Tower",
+    "characters": [
+      "Iron Man",
+      "Black Widow",
+      "Thor",
+      "Hulk",
+      "Captain America",
+      "Loki ",
+      "Pepper Potts",
+      "Happy Hogan",
+      "Shield agent"
+    ]
+  },
+  {
+    "name": "Wakanda",
+    "characters": [
+      "Black Panther",
+      "Shuri",
+      "Killmonger",
+      "Klaw",
+      "Captain America",
+      "Bucky",
+      "Wakandan warrior"
+    ]
+  },
+  {
+    "name": "Asgard",
+    "characters": [
+      "Thor",
+      "Loki",
+      "Odin",
+      "Sif",
+      "Hela",
+      "Valkyrie",
+      "Hulk",
+      "Asgardian"
+    ]
+  },
+  {
+    "name": "Collector's Museum",
+    "characters": [
+      "Groot",
+      "Star-Lord",
+      "Gamora",
+      "Rocket",
+      "Drax",
+      "Thanos",
+      "Part of the collection"
+    ]
+  },
+  {
+    "name": "Westview",
+    "characters": ["Wanda", "Vision", "Peter", "Agnes", "Neighbor"]
+  },
+  {
+    "name": "Parker Residence",
+    "characters": ["Peter Parker", "Aunt May", "MJ", "Tony Stark", "Neighbor"]
+  }
+]

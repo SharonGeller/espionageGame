@@ -1,12 +1,19 @@
 {
-  "name": "espionageGame",
-  "displayName": "espionageGame",
+  "name": "Spy Worlds",
+  "displayName": "Spy Worlds",
   "expo": {
-    "name": "espionageGame",
-    "slug": "espionageGame",
+    "name": "Spy Worlds",
+    "slug": "SpyWorlds",
+    "sdkVersion": "39.0.0",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "icon": "./assets/icon.png",
+    "platforms": ["android"],
+    "splash": {
+      "backgroundColor": "#212121"
+    },
+    "android": {
+      "package": "com.junkyard.spyworlds"
+    }
   }
 }

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "SpongeBob's house",
+    "characters": ["Patrick", "SpongeBob", "Gary", "Sandy", "krabby patty"]
+  },
+  {
+    "name": "Patrick's house",
+    "characters": ["Patrick", "SpongeBob", "Patricia ", "Sandy", "Sand staff"]
+  },
+  {
+    "name": "Squidward's house",
+    "characters": [
+      "Patrick",
+      "SpongeBob",
+      "Squidward ",
+      "Squilliam Fancyson",
+      "Painting"
+    ]
+  },
+  {
+    "name": "Sandy's treedome",
+    "characters": ["Patrick", "SpongeBob", "Sandy", "Robot"]
+  },
+  {
+    "name": "Krusty Krab",
+    "characters": [
+      "Mr. Krabs",
+      "SpongeBob",
+      "Squidward",
+      "Plankton",
+      "Pearl",
+      "Neptune",
+      "Mindy",
+      "Patrick",
+      "Customer"
+    ]
+  },
+  {
+    "name": "Shell City",
+    "characters": [
+      "Cyclops",
+      "SpongeBob",
+      "Patrick",
+      "Pufferfish",
+      "Sea creature",
+      "David Hasselhoff",
+      "Mariachi band"
+    ]
+  }
+]

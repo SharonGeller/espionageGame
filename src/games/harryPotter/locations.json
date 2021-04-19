@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Hogwarts",
+    "characters": [
+      "Harry Potter",
+      "Hermione Granger",
+      "Ron Weasley",
+      "Albus Dumbledore",
+      "Severus Snape",
+      "Remus Lupin",
+      "Minerva McGonagall",
+      "Cedric Diggory",
+      "Studnet"
+    ]
+  },
+  {
+    "name": "Hogsmeade",
+    "characters": [
+      "Harry Potter",
+      "Hermione Granger",
+      "Ron Weasley",
+      "Studnet",
+      "Wizard"
+    ]
+  },
+  {
+    "name": "Diagon Alley",
+    "characters": [
+      "Ollivander",
+      "Hagrid",
+      "Molly Weasley",
+      "Hedwig",
+      "Crookshanks",
+      "Wizard"
+    ]
+  },
+  {
+    "name": "King's Cross",
+    "characters": [
+      "Harry Potter",
+      "Hermione Granger",
+      "Ron Weasley",
+      "Molly Weasley",
+      "Draco Malfoy",
+      "Muggle",
+      "Student"
+    ]
+  },
+  {
+    "name": "Quidditch Cup",
+    "characters": [
+      "Harry Potter",
+      "Hermione Granger",
+      "Ron Weasley",
+      "Fred Weasley",
+      "Arthur Weasley",
+      "Barty Crouch",
+      "Death Eater"
+    ]
+  },
+  {
+    "name": "Ministry of Magic",
+    "characters": [
+      "Cornelius Fudge",
+      "Barty Crouch",
+      "Dolores Umbridge",
+      "Auror"
+    ]
+  },
+  {
+    "name": "Azkaban",
+    "characters": ["Sirius Black", "Barty Crouch", "Prisoner", "Dementor"]
+  }
+]
